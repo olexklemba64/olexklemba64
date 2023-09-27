@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there, I'm Oleksandr 👋
 
+I'm a freelance developer with industry experience in Web service architecting. Moreover, building sought-out UI in Web has been one of my best proficient activities during my career.
 <!--
 **olexklemba64/olexklemba64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
