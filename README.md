@@ -1,6 +1,9 @@
 # Hi there, I'm Oleksandr Klemba 👋
 
 I'm a freelance developer with industry experience in Web service architecting and AI. Moreover, building smart Web UIs has been one of my most intensive activities during my career.
+
+Key Skills:
+
 <!--
 **olexklemba64/olexklemba64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
