@@ -1,4 +1,4 @@
-# Hi there, I'm Oleksandr 👋
+# Hi there, I'm Oleksandr Klemba 👋
 
 I'm a freelance developer with industry experience in Web service architecting. Moreover, building sought-out UIs in Web industry has been one of my most intensive activities during my career.
 <!--
